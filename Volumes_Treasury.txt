@@ -1,0 +1,18 @@
+https://www.newyorkfed.org/markets/counterparties/primary-dealers-statistics
+
+Transactions > US Government > By Security > T-Bills
+Transactions > US Treasury (excluding TIPS) > By Security > T-Bills
+
+Generated API Endpoints 
+https://markets.newyorkfed.org/api/pd/get/SBP2001/timeseries/PDSUSGTBOT.xlsx
+https://markets.newyorkfed.org/api/pd/get/SBP2013/timeseries/PDPUSGTBNOP.xlsx
+https://markets.newyorkfed.org/api/pd/get/SBN2013/timeseries/PDTRGS-EXTB.xlsx
+https://markets.newyorkfed.org/api/pd/get/SBN2015/timeseries/PDTRGS-EXTB.xlsx
+https://markets.newyorkfed.org/api/pd/get/SBN2022/timeseries/PDTRGS-EXTB.xlsx
+
+Transactions > US Government > By Security > TIIS
+
+Generated API Endpoints 
+https://markets.newyorkfed.org/api/pd/get/SBP2001/timeseries/PDSUSGTIISOT.xlsx
+https://markets.newyorkfed.org/api/pd/get/SBP2013/timeseries/PDSUSGTIISOT.xlsx
+...By security or by counterparty ?
