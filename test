@@ -1,14 +1,5 @@
 #EXTM3U
 
-#EXTINF:0 group-title="FONTE 1" tvg-logo="https://i.imgur.com/R8qQGoZ.png",SBT
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-
-#EXTINF:0 group-title="FONTE 1" tvg-logo="https://i.imgur.com/R8qQGoZ.png",BAND
-https://m3u9.ml/a2/hls1/band.m3u8?mu3zAQc9HC3GbwJq=XdLqyr3Se8OmTqDit1z0XQ&3U1G7qaTxrPbalZnEx=1664163102
-
-#EXTINF:0 group-title="FONTE 1" tvg-logo="https://i.imgur.com/R8qQGoZ.png",RECORD
-https://m3u9.ml/a2/hls1/record.m3u8?mu3zAQc9HC3GbwJq=j7RARrd0TMyiHsU6ejr1kw&3U1G7qaTxrPbalZnEx=1664162987
-
 #EXTINF:0 group-title="FONTE 1" tvg-logo="https://i.imgur.com/R8qQGoZ.png",GLOBO
 https://live-nsc-sc-02.video.globo.com/d/s/hls-globo-sc1/playlist.m3u8?h=0401664220254361570230016641338541420692359WWEeJ8OUpksJ7NBlvIJzRA&k=html5&a=F&u=7f7ab1d2-98f3-427e-babc-d4a6fe6cbb28
 
