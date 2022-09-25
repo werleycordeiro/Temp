@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0 group-title="FONTE 1" tvg-logo="https://i.imgur.com/R8qQGoZ.png",GLOBO
+https://live-nsc-sc-02.video.globo.com/d/s/hls-globo-sc1/playlist.m3u8?h=0401664220254361570230016641338541420692359WWEeJ8OUpksJ7NBlvIJzRA&k=html5&a=F&u=7f7ab1d2-98f3-427e-babc-d4a6fe6cbb28
+
 #EXTINF:0 group-title="FONTE 1" tvg-logo="https://i.imgur.com/R8qQGoZ.png",OFF
 https://live-nsc-sc-01.video.globo.com/nu/f(i=2)/off24ha/playlist.m3u8?h=0401664217190808738758616641307901519902145QS-AogSMsXV2WxBnj3YR4A&k=html5&a=F&u=7f7ab1d2-98f3-427e-babc-d4a6fe6cbb28
 
